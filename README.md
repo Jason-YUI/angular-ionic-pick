@@ -6,7 +6,7 @@
 
 0.npm install -g ionic cordova
 
-1.git clone https://github.com/zxj963577494/Ionic2-CNodeClub.git
+1.git clone https://github.com/Jason-YUI/angular-ionic-pick.git
 
 2.cd Ionic2-CNodeClub
 
@@ -20,7 +20,7 @@
 
 0.npm install -g ionic cordova
 
-1.git clone https://github.com/zxj963577494/Ionic2-CNodeClub.git
+1.git clone https://github.com/Jason-YUI/angular-ionic-pick.git
 
 2.cd Ionic2-CNodeClub
 
