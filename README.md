@@ -8,7 +8,7 @@
 
 1.git clone https://github.com/Jason-YUI/angular-ionic-pick.git
 
-2.cd Ionic2-CNodeClub
+2.cd angular-ionic-pick
 
 3.npm install
 
@@ -22,7 +22,7 @@
 
 1.git clone https://github.com/Jason-YUI/angular-ionic-pick.git
 
-2.cd Ionic2-CNodeClub
+2.cd angular-ionic-pick
 
 3.npm install
 
