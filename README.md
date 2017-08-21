@@ -28,19 +28,3 @@
 
 4.ionic serve
 
-# 下载地址
-
-![下载.png](http://os9fefyck.bkt.clouddn.com/review.png)
-
-[Android](https://fir.im/k4qz "android") / [iOS(需越狱)](https://fir.im/9e6h "IOS")
-
-
-# 项目展示
-
-![首页](http://os9fefyck.bkt.clouddn.com/IMG_0187.PNG?imageView2/0/w/426/h/240)
-![首页](http://os9fefyck.bkt.clouddn.com/IMG_0188.PNG?imageView2/0/w/426/h/240)
-![详情](http://os9fefyck.bkt.clouddn.com/IMG_0189.PNG?imageView2/0/w/426/h/240)
-![登录](http://os9fefyck.bkt.clouddn.com/IMG_0190.PNG?imageView2/0/w/426/h/240)
-![个人中心](http://os9fefyck.bkt.clouddn.com/IMG_0191.PNG?imageView2/0/w/426/h/240)
-![我的消息](http://os9fefyck.bkt.clouddn.com/IMG_0192.PNG?imageView2/0/w/426/h/240)
-![我的话题](http://os9fefyck.bkt.clouddn.com/IMG_0193.PNG?imageView2/0/w/426/h/240)
