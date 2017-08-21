@@ -1,6 +1,6 @@
 # 项目介绍 
 
-基于Ionic的[CNode中文论坛](https://cnodejs.org/ "CNode中文论坛")客户端，采用最新的Ionic 3.4.2 + Angular 4 + TypeScript 2.3
+采用最新的Ionic 3.4.2 + Angular 4 + TypeScript 2.3
 
 # 安装指南
 
